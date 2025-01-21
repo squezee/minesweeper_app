@@ -1,3 +1,5 @@
+Author: Кулешов Константин Юрьевич 2ПИ
+
 MINESWEEPER APP
 
 Authorization page:
