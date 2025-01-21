@@ -1,16 +1,9 @@
-# flutter_application_3
+MINESWEEPER APP
 
-A new Flutter project.
+Authorization page:
 
-## Getting Started
+![Снимок экрана (34)](https://github.com/user-attachments/assets/fd2b067a-66c8-4875-9995-d1251797b5b3)
 
-This project is a starting point for a Flutter application.
+Game page:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Снимок экрана (35)](https://github.com/user-attachments/assets/d072be25-6fa7-4b02-9785-89c86b3457fc)
